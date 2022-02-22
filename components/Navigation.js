@@ -24,7 +24,7 @@ export default function Navigation() {
               </ul>
             </div>
             <div className="hidden xl:block xl:w-1/3">
-              <div className="flex items-center justify-end"><a className="inline-block py-2 px-4 mr-2 leading-5 text-coolGray-500 hover:text-coolGray-900 bg-transparent font-medium rounded-md" href="#" data-config-id="auto-txt-5-1">Log In</a><a class="inline-block py-2 px-4 text-sm leading-5 text-green-50 bg-green-500 hover:bg-green-600 font-medium focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 rounded-md" href="#" data-config-id="auto-txt-6-1">Sign Up</a></div>
+              <div className="flex items-center justify-end"><a className="inline-block py-2 px-4 mr-2 leading-5 text-coolGray-500 hover:text-coolGray-900 bg-transparent font-medium rounded-md" href="#" data-config-id="auto-txt-5-1">Log In</a><a className="inline-block py-2 px-4 text-sm leading-5 text-green-50 bg-green-500 hover:bg-green-600 font-medium focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 rounded-md" href="#" data-config-id="auto-txt-6-1">Sign Up</a></div>
             </div>
           </div>
           <button className="navbar-burger self-center xl:hidden">
