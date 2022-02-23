@@ -9,8 +9,8 @@ export default function Marketing() {
             <Image className="absolute top-0 left-0" src="/assets/Scene 2.png" alt="" height='200' width= '300' />
             <Image className="absolute bottom-0 right-0" src="/assets/Scene 1.png" alt="" height='200' width= '300' />
             <div className="relative">
-              <span className="inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-9xl" >We get it sold within a day!</span>
-              <h2 className="text-2xl md:text-5xl font-semibold tracking-tighter underline decoration-wavy decoration-4 decoration-green-600 " data-config-id="auto-txt-2-1">Let our experts handle the sales.</h2>
+              <span className="inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-9xl" >Sellit with us<span className="text-green-600">within hours!</span> </span>
+              <h2 className="text-2xl md:text-5xl font-semibold tracking-tighter underline decoration-wavy decoration-4 decoration-green-600 " data-config-id="auto-txt-2-1">Our sales team is good at their job!.</h2>
             </div>
           </div>
           <div className="text-center mb-8">
