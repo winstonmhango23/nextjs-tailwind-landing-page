@@ -10,7 +10,7 @@ export default function Marketing() {
             <Image className="absolute bottom-0 right-0" src="/assets/Scene 1.png" alt="" height='200' width= '300' />
             <div className="relative">
               <span className="inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-9xl" >Sellit with uswithin hours!</span>
-              <h2 className="text-2xl md:text-5xl font-semibold tracking-tighter underline decoration-wavy decoration-4 decoration-green-600 ">Our sales team is<span className="text-green-500">good at their job</span> !.</h2>
+              <h2 className="text-2xl md:text-5xl font-semibold tracking-tighter underline decoration-wavy decoration-4 decoration-green-600 ">Our sales team is<span className="text-green-500"> good at their job</span> !.</h2>
             </div>
           </div>
           <div className="text-center mb-8">
